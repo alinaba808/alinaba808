@@ -5,7 +5,7 @@ My Name is Alina
 
 I’m currently learning: 
 - Programming fun Projects on STM32 in C ✨
-- Programming ResperryPi Pico H in Phython
+- Programming RespberryPi Pico H in Phython
 
 (but I prefere C ✨ with GPIOS, Displays and Hardware)
 
